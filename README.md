@@ -161,7 +161,7 @@ You're not just buying a repo — you're joining a community of QA engineers and
 This is a **private repository**. To get access:
 
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/ivdavidov/)
-- **Framework:** [Buy It](https://buymeacoffee.com/idavidov/e/513835)
+- **Framework:** [Get Access](https://buymeacoffee.com/idavidov/e/513835)
 
 Once you have access, the full README covers detailed setup instructions, architecture diagrams, code examples, the complete AI workflow documentation, and more.
 
